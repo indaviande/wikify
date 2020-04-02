@@ -1,6 +1,7 @@
 ---
 title: Fonds de solidarité
 ---
+
 [Fonds de solidarité](https://docsify-independants-co.netlify.com/#/fonds-solidarite?id=fonds-de-solidarit%c3%a9)
 
 > An awesome project.
